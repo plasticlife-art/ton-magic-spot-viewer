@@ -1,5 +1,5 @@
-# ton-magic-pot-viewer
-Vue application to getting data from magic-pot contract and send transactions to it
+# ton-viewer-magic-pot
+Vue application to get data from magic-pot contract and send transactions to it
 
 ## Environment Setup
 
